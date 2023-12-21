@@ -18,6 +18,7 @@ namespace SMSServiceInfrustructure.Model.Message
         public MessageStatus MessageStatus { get; set; }
 
         public MessageLanguage Language { get; set; }
+        
 
         public MessageGroup MessageGroup { get; set; }
 

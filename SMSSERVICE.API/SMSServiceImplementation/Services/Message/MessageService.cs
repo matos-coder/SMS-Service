@@ -2,6 +2,7 @@
 using Implementation.Helper;
 using IntegratedInfrustructure.Data;
 using IntegratedInfrustructure.Model.Authentication;
+using IntegratedInfrustructure.Model.HRM;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SMSServiceImplementation.DTOS.Message;
@@ -36,6 +37,8 @@ namespace SMSServiceImplementation.Services.Message
                           {
             Id = x.Id,
             Content = x.Content,
+            //MessageGroupId = x.MessageGroupId,
+            //OrganizationId = x.OrganizationId,
             MessageGroup = x.MessageGroup.GroupName,
             MessageStatus = x.MessageStatus.ToString(),
             Language = x.Language.ToString(),
@@ -76,6 +79,7 @@ namespace SMSServiceImplementation.Services.Message
             {
                 PersonalMessages personalMessage = new PersonalMessages
                 {
+                    MessageId = messagePost.Id,
                     Id = Guid.NewGuid(),
                     CreatedDate = DateTime.Now,
                     CreatedById = addMessages.CreatedById,

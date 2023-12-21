@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using AutoMapper.QueryableExtensions;
+using IntegratedImplementation.DTOS.HRM;
 using IntegratedInfrustructure.Data;
 using IntegratedInfrustructure.Model.HRM;
 using Microsoft.EntityFrameworkCore;
@@ -26,23 +28,15 @@ namespace SMSServiceImplementation.Services.Report
             _mapper = mapper;
         }
 
-        public async Task<List<GetReportDto>> GetReports(Guid? organizationId)
+        public async Task<List<GetReportDto>> GetReports(Guid OrganizationId)
         {
             var results = await _dbContext.Reports
-             .Include(x => x.MessageGroup.Organization)
-             .Select(x => new GetReportDto
-             {
-                 //Content = x.Content,
-                 //GroupName = x.GroupName,
-                 //NumberOfCustomer = x.NumberOfCustomer,
-                 MessageStatus = x.MessageStatus,
-                 Name = x.Name,
-                 OrganizationId = x.MessageGroup.OrganizationId,
-             }).ToListAsync();
-            if (organizationId != null)
-            {
-                results = results.Where(x => x.OrganizationId == organizationId).ToList();
-            }
+                .Where(x => x.OrganizationId == OrganizationId)
+                .AsNoTracking()
+                .ProjectTo<GetReportDto>(_mapper.ConfigurationProvider).ToListAsync();
+
+
+            
 
             return results;
         }

@@ -211,3 +211,4 @@ E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\refint
 E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.pdb
 E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.genruntimeconfig.cache
 E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\ref\SMSServiceAPI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.MvcApplicationPartsAssemblyInfo.cs

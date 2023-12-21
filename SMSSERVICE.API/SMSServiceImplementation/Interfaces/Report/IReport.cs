@@ -10,6 +10,6 @@ namespace SMSServiceImplementation.Interfaces.Report
 {
     public interface IReport
     {
-        Task<List<GetReportDto>> GetReports(Guid? OrganizationId);
+        Task<List<GetReportDto>> GetReports(Guid OrganizationId);
     }
 }
