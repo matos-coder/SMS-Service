@@ -1,0 +1,30 @@
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceImplementation.deps.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceImplementation.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceImplementation.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceInfrustructure.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceInfrustructure.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.csproj.CopyComplete
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\refint\SMSServiceImplementation.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\ref\SMSServiceImplementation.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.csproj.AssemblyReference.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.AssemblyInfoInputs.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.AssemblyInfo.cs
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.csproj.CoreCompileInputs.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceImplementation.deps.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceImplementation.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceImplementation.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceInfrustructure.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\bin\Debug\net7.0\SMSServiceInfrustructure.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.csproj.CopyComplete
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\refint\SMSServiceImplementation.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\SMSServiceImplementation.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceImplementation\obj\Debug\net7.0\ref\SMSServiceImplementation.dll

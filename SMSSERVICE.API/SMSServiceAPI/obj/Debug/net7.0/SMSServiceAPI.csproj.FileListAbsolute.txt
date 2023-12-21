@@ -1,0 +1,213 @@
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.staticwebassets.runtime.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.exe
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.deps.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.runtimeconfig.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceImplementation.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceInfrustructure.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceImplementation.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceInfrustructure.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.SMSServiceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SMSServiceAPI.props
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SMSServiceAPI.props
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SMSServiceAPI.props
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\scopedcss\bundle\SMSServiceAPI.styles.css
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.csproj.CopyComplete
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\refint\SMSServiceAPI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.pdb
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\ref\SMSServiceAPI.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\EPPlus.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\Desktop\Kirubel Files\DAFTech Social\SMS_Service\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.csproj.AssemblyReference.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.AssemblyInfoInputs.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.AssemblyInfo.cs
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.csproj.CoreCompileInputs.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\appsettings.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.staticwebassets.runtime.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.exe
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.deps.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.runtimeconfig.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceAPI.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\AutoMapper.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\EPPlus.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\EPPlus.Interfaces.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Humanizer.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceImplementation.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceInfrustructure.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceImplementation.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\bin\Debug\net7.0\SMSServiceInfrustructure.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.SMSServiceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SMSServiceAPI.props
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SMSServiceAPI.props
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SMSServiceAPI.props
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\scopedcss\bundle\SMSServiceAPI.styles.css
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.csproj.CopyComplete
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\refint\SMSServiceAPI.dll
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.pdb
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\SMSServiceAPI.genruntimeconfig.cache
+E:\m\project\New folder\sms\SMSSERVICE.API\SMSServiceAPI\obj\Debug\net7.0\ref\SMSServiceAPI.dll
