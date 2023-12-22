@@ -16,6 +16,7 @@ export interface IMessagPostDto {
   content:string,
   language:string,
   messageGroupId:string,
-  createdById:string
+  createdById:string,
+  organizationId:string
 
 }

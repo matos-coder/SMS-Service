@@ -32,19 +32,21 @@ namespace SMSServiceImplementation.Services.Message
             var results = await _dbContext.Messages
                 .Include(x=>x.MessageGroup)
                 .Include(x => x.MessageGroup.GroupPhoneNumbers)
+                //.Include(x => x.MessageGroup.OrganizationId)
                 .Where(x=>x.MessageGroupId == messageGroupId)                                  
                 .Select(x=> new MessageGetDto
                           {
             Id = x.Id,
             Content = x.Content,
-            //MessageGroupId = x.MessageGroupId,
-            //OrganizationId = x.OrganizationId,
+            MessageGroupId = x.MessageGroupId,
+            OrganizationId = x.OrganizationId,
             MessageGroup = x.MessageGroup.GroupName,
             MessageStatus = x.MessageStatus.ToString(),
             Language = x.Language.ToString(),
             IsApproved = x.IsApproved,
             TextSize = x.TextSize,
             NumberOfCustomer  = x.MessageGroup.GroupPhoneNumbers.Count()
+
             
             }).ToListAsync();
 
@@ -63,6 +65,7 @@ namespace SMSServiceImplementation.Services.Message
                 MessageStatus = MessageStatus.UNSENT,
                 IsApproved = false,
                 MessageGroupId = addMessages.MessageGroupId,
+                OrganizationId = addMessages.OrganizationId,
                 Rowstatus = RowStatus.ACTIVE,
              
 

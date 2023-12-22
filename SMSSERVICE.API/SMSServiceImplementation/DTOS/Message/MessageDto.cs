@@ -32,5 +32,6 @@ namespace SMSServiceImplementation.DTOS.Message
         public string Language { get; set; }
         public Guid MessageGroupId { get; set; }       
         public string CreatedById { get; set; }
+        public Guid OrganizationId { get; set; }
     }
 }

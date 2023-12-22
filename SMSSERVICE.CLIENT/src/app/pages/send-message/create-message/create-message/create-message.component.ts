@@ -41,7 +41,7 @@ export class CreateMessageComponent implements OnInit{
         message: [null, Validators.required],
         language: [null, Validators.required],
         group: [null, Validators.required],
-
+        //organizationId: [null,Validators.required]
 
       });
       this.getMessageGroups()
@@ -67,7 +67,7 @@ export class CreateMessageComponent implements OnInit{
           language: this.sendmessageForm.value.language,
           messageGroupId: this.sendmessageForm.value.group,
           createdById: this.user.userId,
-
+          organizationId: this.user.organizationId
         }
 
 

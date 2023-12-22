@@ -46,6 +46,8 @@ namespace IntegratedImplementation.Datas
                 .ForMember(a => a.GroupName, e => e.MapFrom(mfg => mfg.MessageGroup.GroupName))
                 .ForMember(a => a.NumberOfCustomer, e => e.MapFrom(mfg => mfg.Message.NumberOfCustomer))
                 .ForMember(a => a.Content, e => e.MapFrom(mfg => mfg.Message.Content));
+
+            //CreateMap<Message, GetReportDto>();
         }
     }
 }

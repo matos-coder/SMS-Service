@@ -11,12 +11,13 @@ namespace SMSServiceImplementation.DTOS.Report
 {
     public class GetReportDto
     {
-        public Guid ReportId { get; set; }
+        //public Guid ReportId { get; set; }
         public Organization Name { get; set; }
+        public string Language { get; set; }
 
-        public MessageGroup MessageGroup { get; set; }
+        //public MessageGroup MessageGroup { get; set; }
         public string? GroupName { get; set; }
-        public SMSServiceInfrustructure.Model.Message.Message Message { get; set; }
+        //public SMSServiceInfrustructure.Model.Message.Message Message { get; set; }
         public string? Content { get; set; }
         public int? NumberOfCustomer { get; set; }
         public MessageStatus MessageStatus { get; set; }
@@ -24,5 +25,6 @@ namespace SMSServiceImplementation.DTOS.Report
         public int UnSentCount { get; set; }
         public Guid OrganizationId { get; set; }
         public Guid MessageGroupId { get; set; }
+
     }
 }

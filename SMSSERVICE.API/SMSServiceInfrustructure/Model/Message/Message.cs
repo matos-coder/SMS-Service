@@ -1,4 +1,5 @@
 ﻿using IntegratedInfrustructure.Model.Authentication;
+using IntegratedInfrustructure.Model.HRM;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,8 @@ namespace SMSServiceInfrustructure.Model.Message
         
 
         public MessageGroup MessageGroup { get; set; }
+        public Organization Organization { get; set; }
+        public Guid OrganizationId { get; set; }
 
         public Guid MessageGroupId { get; set; }
 
