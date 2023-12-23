@@ -7,6 +7,7 @@ import { MessageGroupComponent } from './pages/message-group/message-group/messa
 import { GroupPhonesComponent } from './pages/group-phones/group-phones.component';
 import { SendMessageComponent } from './pages/send-message/send-message.component';
 import { UnsentComponent } from './pages/unsent/unsent.component';
+import { ReportComponent } from './pages/report/report/report.component';
 
 const routes: Routes = [
   {
@@ -63,6 +64,9 @@ const routes: Routes = [
       },
       {
         path: 'unsent', component:UnsentComponent
+      },
+      {
+        path: 'report', component:ReportComponent
       }
 
     ]

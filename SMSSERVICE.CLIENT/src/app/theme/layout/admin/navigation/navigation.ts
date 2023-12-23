@@ -97,7 +97,7 @@ const NavigationItems = [
             id: 'setting',
             title: 'Report',
             type: 'item',
-            url: '/system-control/setting',
+            url: '/report',
             breadcrumbs: false
           }
         ]

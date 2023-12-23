@@ -47,6 +47,7 @@ import { CreateMessageComponent } from './pages/send-message/create-message/crea
 import { UpdatMessageComponent } from './pages/send-message/updat-message/updat-message.component';
 import { UnsentComponent } from './pages/unsent/unsent.component';
 import { RejectComponent } from './pages/unsent/reject/reject.component';
+import { ReportComponent } from './pages/report/report/report.component';
 
 
 
@@ -76,7 +77,7 @@ import { RejectComponent } from './pages/unsent/reject/reject.component';
         AddUserComponent,
         UserRoleComponent,
         AutoCompleteComponent,
-        CustomerCategoryComponent, MessageGroupComponent,AddGroupsComponent, UpdateGroupComponent, AddPhoneComponent,GroupPhonesComponent, UpdatePhonesComponent, SendMessageComponent, CreateMessageComponent, UpdatMessageComponent, UnsentComponent, RejectComponent
+        CustomerCategoryComponent, MessageGroupComponent,AddGroupsComponent, UpdateGroupComponent, AddPhoneComponent,GroupPhonesComponent, UpdatePhonesComponent, SendMessageComponent, CreateMessageComponent, UpdatMessageComponent, UnsentComponent, RejectComponent, ReportComponent
 
     ],
     providers: [

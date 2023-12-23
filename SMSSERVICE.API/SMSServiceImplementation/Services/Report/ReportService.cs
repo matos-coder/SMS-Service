@@ -31,58 +31,6 @@ namespace SMSServiceImplementation.Services.Report
             _mapper = mapper;
         }
 
-        //public async Task<List<GetReportDto>> GetReports(Guid OrganizationId)
-        //{
-        //    var results = await _dbContext.Reports
-        //        .Include(x => x.Message)
-        //        .Where(x => x.OrganizationId == OrganizationId)
-        //        .AsNoTracking()
-        //        .ProjectTo<GetReportDto>(_mapper.ConfigurationProvider).ToListAsync();
-
-
-
-        //    return results;
-        //}
-
-
-
-        //public async Task<List<GetReportDto>> GetReports(Guid organizationId)
-        //{
-        //    var reports = await _dbContext.Reports
-        //        .Include(r => r.Name)
-        //        .Include(r => r.MessageGroup)
-        //        .Where(r => r.OrganizationId == organizationId)
-        //        .ToListAsync();
-
-        //    var reportDtos = new List<GetReportDto>();
-
-        //    foreach (var report in reports) {
-        //        var messages = await _dbContext.Messages
-        //            .Where(m => m.OrganizationId == organizationId && m.MessageGroupId == report.MessageGroupId)
-        //            .ToListAsync();
-
-
-
-        //        var reportDto = new GetReportDto
-        //        {
-        //            OrganizationId = report.OrganizationId,
-        //            MessageGroupId = report.MessageGroupId,
-        //            //Message = messages.Select(m => m.Content).ToList(),
-        //            GroupName = report.GroupName,
-        //            Content = report.Content,
-        //            Name = report.Name,
-        //            NumberOfCustomer = report.NumberOfCustomer,
-        //            MessageStatus = report.MessageStatus,
-        //            SendTime = report.SendTime,
-        //            UnSentCount = report.UnSentCount
-        //        // Map other properties from the report to the reportDto
-        //        // Example: GroupName = report.GroupName, Content = report.Content, etc.
-        //        };
-        //            reportDtos.Add(reportDto);
-        //        }
-
-        //    return reportDtos;
-        //}
         public async Task<List<GetReportDto>> GetReports(Guid messageGroupId)
         {
             var messages = await _dbContext.Messages
@@ -109,10 +57,7 @@ namespace SMSServiceImplementation.Services.Report
             var reports = new List<GetReportDto>();
             foreach (var message in messages)
             {
-                // Generate the report based on the message
                 var reportq = GenerateReportFromMessage(message);
-
-                // Add the report to the list
                 reports.Add(reportq);
             }
             return reports;
@@ -120,24 +65,16 @@ namespace SMSServiceImplementation.Services.Report
         }
         public GetReportDto GenerateReportFromMessage(MessageGetDto message)
         {
-            
-            // Perform the necessary logic to generate the report based on the message
-            // You can access the properties of the message object and construct the report accordingly
-
             var reportw = new GetReportDto
             {
-                // Set the report properties based on the message
-                // For example:
                 OrganizationId = message.OrganizationId,
                 MessageGroupId = message.MessageGroupId,
                 Content = message.Content,
                 GroupName = message.MessageGroup,
                 NumberOfCustomer = message.NumberOfCustomer,
-                //Name = message.OrganizationName,
-                //MessageStatus = message.MessageStatus,
+                OrganizationName = message.OrganizationName,
+                MessageStatus = message.MessageStatus,
                 Language = message.Language,
-
-                // Set other report properties based on the message
             };
 
             return reportw;
