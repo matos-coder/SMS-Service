@@ -12,6 +12,7 @@ using SMSServiceInfrustructure.Model.Message;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using static IntegratedInfrustructure.Data.EnumList;
@@ -44,7 +45,8 @@ namespace SMSServiceImplementation.Services.Message
             MessageStatus = x.MessageStatus.ToString(),
             Language = x.Language.ToString(),
             IsApproved = x.IsApproved,
-            TextSize = x.TextSize,
+            //TextSize = x.TextSize,
+            TextSize = GetTextSize(x.Content, x.Language),
             NumberOfCustomer  = x.MessageGroup.GroupPhoneNumbers.Count()
 
             
@@ -117,11 +119,12 @@ namespace SMSServiceImplementation.Services.Message
                  MessageStatus = x.MessageStatus.ToString(),
                  Language = x.Language.ToString(),
                  IsApproved = x.IsApproved,
-                 TextSize = x.TextSize,
+                 //TextSize = x.TextSize,
                  NumberOfCustomer = x.NumberOfCustomer,
                  MessageGroupId = x.MessageGroupId,
                  OrganizationId=x.MessageGroup.OrganizationId,
-                 OrganizationName =x.MessageGroup.Organization.Name
+                 OrganizationName =x.MessageGroup.Organization.Name,
+                 TextSize = GetTextSize(x.Content, x.Language)
 
              }).ToListAsync();
 
@@ -129,7 +132,10 @@ namespace SMSServiceImplementation.Services.Message
             {
                 results = results.Where(x=>x.OrganizationId == organizationId).ToList();
             }
-
+            foreach (var message in results)
+            {
+                message.TextSize = GetTextSize(message.Content, (MessageLanguage)Enum.Parse(typeof(MessageLanguage), message.Language));
+            }
             return results;
         }
     

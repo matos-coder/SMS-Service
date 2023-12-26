@@ -24,6 +24,7 @@ export class SendMessageComponent implements OnInit{
   messagegroups:IMessagGroupGetDto[]
   groupOptions: SelectItem[] = []
   selectedGroup: string = null;
+  
 
   constructor(private modalService:NgbModal,
     private messageService:MessageService,
