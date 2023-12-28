@@ -18,13 +18,15 @@ export interface IMessagGroupPostDto {
   createdById: string
 
 }
-// export interface IMessagGroupPutDto {
+export interface IMessagGroupPutDto {
 
-//   Id:string,
-//   groupName:string,
-//   groupCode:string,
-//   remark:string,
-//   organizationId: string,
+  //Id:string,
+  groupName:string,
+  groupCode:string,
+  remark:string,
+  organizationId: string,
+  createdById: string
+  //organizationName:string
 
 
-// }
+}

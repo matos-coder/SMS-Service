@@ -18,6 +18,7 @@ namespace SMSServiceImplementation.DTOS.Message
         public bool IsApproved { get; set; }
         public int TextSize { get; set; }
         public int NumberOfCustomer { get; set; }
+        public DateTime CreatedDate { get; set; }
 
         public Guid OrganizationId { get; set; }
         public string OrganizationName { get; set; }

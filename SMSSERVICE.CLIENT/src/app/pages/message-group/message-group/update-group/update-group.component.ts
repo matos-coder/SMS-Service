@@ -5,7 +5,7 @@ import { MessageService } from 'primeng/api';
 import { MessageGroupService } from 'src/app/services/message-group.service';
 import { UserService } from 'src/app/services/user.service';
 import { UserView } from 'src/models/auth/userDto';
-import { IMessagGroupGetDto, } from 'src/models/msg/msg.model';
+import { IMessagGroupGetDto, IMessagGroupPutDto, } from 'src/models/msg/msg.model';
 
 @Component({
   selector: 'app-update-group',
@@ -40,13 +40,14 @@ export class UpdateGroupComponent implements OnInit {
 
       console.log(this.messagegroupsForm.value)
       if (this.messagegroupsForm.valid) {
-        const value : IMessagGroupGetDto = {
-          id:this.user.userId,
+        const value : IMessagGroupPutDto = {
+          //Id:this.user.userId,
           groupName: this.messagegroupsForm.value.GroupName,
           groupCode: this.messagegroupsForm.value.GroupCode,
           remark: this.messagegroupsForm.value.Remark,
           organizationId: this.user.organizationId,
-          organizationName: this.user.fullName
+          //organizationName: this.user.fullName
+          createdById: this.user.userId
 
 
         }

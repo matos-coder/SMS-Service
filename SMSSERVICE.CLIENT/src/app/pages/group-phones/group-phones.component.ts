@@ -10,6 +10,7 @@ import { OrganizationService } from 'src/app/services/organization.service';
 import { MessageGroupService } from 'src/app/services/message-group.service';
 import { IMessagGroupGetDto } from 'src/models/msg/msg.model';
 import * as XLSX from 'xlsx';
+import { UpdatePhonesComponent } from './update-phones/update-phones/update-phones.component';
 
 
 @Component({
@@ -55,7 +56,7 @@ export class GroupPhonesComponent implements OnInit{
 
     })
   }
-  getGroupPhones(id:string){
+  getGroupPhonez(id: string){
 
     this.phnService.getGroupPhones(id).subscribe({
       next: (res) => {
@@ -96,6 +97,16 @@ export class GroupPhonesComponent implements OnInit{
         console.log(err);
       }
     });
+  }
+  updateGroupPhone(groupphone: IPhoneGroupGetDto){
+    console.log(groupphone)
+
+    let modalRef = this.modalService.open(UpdatePhonesComponent,{size:'lg',backdrop:'static'})
+
+    modalRef.componentInstance.groupphones = groupphone
+    modalRef.result.then(()=>{
+      this.getGroupPhonez(groupphone.messageGroupId)
+    })
   }
 
   onUpload(event: any) {

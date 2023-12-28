@@ -56,7 +56,7 @@
       <div class="col-md-4" [hidden]="!isFirstSelectOptionSelected">
         <div class="form-floating mb-3">
           <select class="form-control" [(ngModel)]="selectedGroup" #mySelect1
-            (change)='getGroupPhones(mySelect1.value)'>
+            (change)='getGroupPhonez(mySelect1.value)'>
             <option class="option" *ngFor="let option of groupOptions" [value]="option.value">{{option.label}}</option>
 
           </select>
@@ -125,7 +125,7 @@
             <td> {{groupphone.phoneNumber}} </td>
             <td> {{groupphone.remark}} </td>
             <td>
-              <button type="button" class="btn btn-outline-warning"><i class="pi pi-pencil me-1"></i>
+              <button type="button" class="btn btn-outline-warning" (click)="updateGroupPhone(groupphone)"><i class="pi pi-pencil me-1"></i>
               </button>
             </td>
 

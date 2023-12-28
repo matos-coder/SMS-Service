@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';
 import { ResponseMessage } from 'src/models/ResponseMessage.Model';
-import { IMessagGroupGetDto, IMessagGroupPostDto } from 'src/models/msg/msg.model';
+import { IMessagGroupGetDto, IMessagGroupPostDto, IMessagGroupPutDto } from 'src/models/msg/msg.model';
 
 @Injectable({
   providedIn: 'root'
@@ -18,7 +18,7 @@ export class MessageGroupService {
   addMessageGroup(value: IMessagGroupPostDto) {
     return this.http.post<ResponseMessage>(this.baseUrl + '/MessageGroup', value);
   }
-  updateMessageGroup(value : IMessagGroupGetDto){
+  updateMessageGroup(value : IMessagGroupPutDto){
     return this.http.put<ResponseMessage>(this.baseUrl + '/MessageGroup', value);
   }
 }

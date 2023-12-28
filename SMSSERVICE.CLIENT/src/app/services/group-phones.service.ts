@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';
 import { ResponseMessage } from 'src/models/ResponseMessage.Model';
-import { IPhoneGroupGetDto, IPhoneGroupPostDto } from 'src/models/phn/phn.model';
+import { IPhoneGroupGetDto, IPhoneGroupPostDto, IPhoneGroupPutDto } from 'src/models/phn/phn.model';
 
 @Injectable({
   providedIn: 'root'
@@ -20,6 +20,9 @@ export class GroupPhonesService {
   }
   addGroupPhoneExcel(fromData: FormData,userId:string) {
     return this.http.post<ResponseMessage>(this.baseUrl + `/GroupPhone/AddGroupPhoneFromExcel?createdById=${userId}`, fromData);
+  }
+  updateGroupPhone(value : IPhoneGroupPutDto){
+    return this.http.put<ResponseMessage>(this.baseUrl + '/GroupPhone/AddGroupPhone', value);
   }
   // getgroupSelectList(){
   //   return this.http.get<any>(this.baseUrl +"/api/Employee/getEmployeesSelectList")

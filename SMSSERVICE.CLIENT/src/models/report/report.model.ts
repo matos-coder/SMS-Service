@@ -8,7 +8,7 @@ export interface IReportGetDto {
   Content:string,
   //TextSize:string,
   NumberOfCustomer:string,
-  sendTime:string,
+  createdDate:string,
   unSentCount:string
 
 }

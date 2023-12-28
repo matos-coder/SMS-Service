@@ -45,12 +45,13 @@ namespace SMSServiceImplementation.Services.Message
             MessageStatus = x.MessageStatus.ToString(),
             Language = x.Language.ToString(),
             IsApproved = x.IsApproved,
-            //TextSize = x.TextSize,
-            TextSize = GetTextSize(x.Content, x.Language),
-            NumberOfCustomer  = x.MessageGroup.GroupPhoneNumbers.Count()
+            TextSize = x.TextSize,
+            //TextSize = GetTextSize(x.Content, x.Language),
+            NumberOfCustomer  = x.MessageGroup.GroupPhoneNumbers.Count(),
+            CreatedDate = x.CreatedDate
 
-            
-            }).ToListAsync();
+
+                }).ToListAsync();
 
             return results;
         }
@@ -119,12 +120,13 @@ namespace SMSServiceImplementation.Services.Message
                  MessageStatus = x.MessageStatus.ToString(),
                  Language = x.Language.ToString(),
                  IsApproved = x.IsApproved,
-                 //TextSize = x.TextSize,
+                 
                  NumberOfCustomer = x.NumberOfCustomer,
                  MessageGroupId = x.MessageGroupId,
                  OrganizationId=x.MessageGroup.OrganizationId,
                  OrganizationName =x.MessageGroup.Organization.Name,
-                 TextSize = GetTextSize(x.Content, x.Language)
+                 //TextSize = GetTextSize(x.Content, x.Language),
+                 TextSize = x.TextSize,
 
              }).ToListAsync();
 
@@ -145,6 +147,8 @@ namespace SMSServiceImplementation.Services.Message
             int contentTextSize = content.Length;
             int[] thresholds = GetMessageLanguageThresholds(messageLanguage);
             int textSize = 1;
+
+
 
             foreach (int threshold in thresholds)
             {

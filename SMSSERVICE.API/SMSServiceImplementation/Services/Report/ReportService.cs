@@ -52,6 +52,7 @@ namespace SMSServiceImplementation.Services.Report
                     TextSize = x.TextSize,
                     NumberOfCustomer = x.MessageGroup.GroupPhoneNumbers.Count(),
                     OrganizationName = x.MessageGroup.Organization.Name,
+                    CreatedDate = x.CreatedDate
 
                 }).ToListAsync();
             var reports = new List<GetReportDto>();
@@ -75,6 +76,7 @@ namespace SMSServiceImplementation.Services.Report
                 OrganizationName = message.OrganizationName,
                 MessageStatus = message.MessageStatus,
                 Language = message.Language,
+                CreatedDate = message.CreatedDate
             };
 
             return reportw;

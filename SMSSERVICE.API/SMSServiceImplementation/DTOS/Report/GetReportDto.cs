@@ -21,7 +21,7 @@ namespace SMSServiceImplementation.DTOS.Report
         public string? Content { get; set; }
         public int? NumberOfCustomer { get; set; }
         public string MessageStatus { get; set; }
-        public DateTime SendTime { get; set; }
+        public DateTime CreatedDate { get; set; }
         public int UnSentCount { get; set; }
         public Guid OrganizationId { get; set; }
         public Guid MessageGroupId { get; set; }
