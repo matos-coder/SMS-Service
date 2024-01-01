@@ -57,7 +57,7 @@ namespace SMSServiceAPI.Controllers.Message
 
         [HttpPut]
         [ProducesResponseType(typeof(ResponseMessage), (int)HttpStatusCode.OK)]
-        public async Task<IActionResult> UpdateGroupPhone([FromForm] GroupPhoneGetDto GroupPhone)
+        public async Task<IActionResult> UpdateGroupPhone(GroupPhoneGetDto GroupPhone)
         {
             if (ModelState.IsValid)
             {

@@ -64,11 +64,11 @@ export class UpdatePhonesComponent implements OnInit{
       if (this.groupphonesForm.valid) {
         const selectedGroup = this.groupSelectList.find(group => group.value === this.groupphonesForm.value.groupName);
         const value : IPhoneGroupPutDto = {
-          id: this.user.userId,
+          id: this.groupphones.id,
           fullName: this.groupphonesForm.value.fullName,
           phoneNumber: this.groupphonesForm.value.phoneNumber,
           remark: this.groupphonesForm.value.remark,
-          createdById: this.user.userId,
+          //createdById: this.user.userId,
           messageGroupId: this.groupphonesForm.value.groupName,
           messageGroup:selectedGroup ? selectedGroup.label : ''
         }

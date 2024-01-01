@@ -27,6 +27,6 @@ export interface IPhoneGroupPutDto {
   phoneNumber:string,
   fullName:string,
   remark:string,
-  createdById:string
+  //createdById:string
 
 }

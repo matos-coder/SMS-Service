@@ -41,13 +41,13 @@ export class UpdateGroupComponent implements OnInit {
       console.log(this.messagegroupsForm.value)
       if (this.messagegroupsForm.valid) {
         const value : IMessagGroupPutDto = {
-          //Id:this.user.userId,
-          groupName: this.messagegroupsForm.value.GroupName,
-          groupCode: this.messagegroupsForm.value.GroupCode,
-          remark: this.messagegroupsForm.value.Remark,
-          organizationId: this.user.organizationId,
-          //organizationName: this.user.fullName
-          createdById: this.user.userId
+          Id:this.messagegroup.id,
+          GroupName: this.messagegroupsForm.value.groupName,
+          GroupCode: this.messagegroupsForm.value.groupCode,
+          Remark: this.messagegroupsForm.value.remark,
+          OrganizationId: this.user.organizationId,
+          OrganizationName: this.user.fullName
+          //createdById: this.user.userId
 
 
         }

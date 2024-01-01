@@ -45,7 +45,7 @@ namespace SMSServiceAPI.Controllers.Message
 
         [HttpPut]
         [ProducesResponseType(typeof(ResponseMessage), (int)HttpStatusCode.OK)]
-        public async Task<IActionResult> UpdateMessageGroup([FromForm] MessageGroupGetDto MessageGroup)
+        public async Task<IActionResult> UpdateMessageGroup( MessageGroupGetDto MessageGroup)
         {
             if (ModelState.IsValid)
             {

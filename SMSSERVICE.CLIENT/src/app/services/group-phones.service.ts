@@ -22,7 +22,7 @@ export class GroupPhonesService {
     return this.http.post<ResponseMessage>(this.baseUrl + `/GroupPhone/AddGroupPhoneFromExcel?createdById=${userId}`, fromData);
   }
   updateGroupPhone(value : IPhoneGroupPutDto){
-    return this.http.put<ResponseMessage>(this.baseUrl + '/GroupPhone/AddGroupPhone', value);
+    return this.http.put<ResponseMessage>(this.baseUrl + '/GroupPhone/UpdateGroupPhone', value);
   }
   // getgroupSelectList(){
   //   return this.http.get<any>(this.baseUrl +"/api/Employee/getEmployeesSelectList")
