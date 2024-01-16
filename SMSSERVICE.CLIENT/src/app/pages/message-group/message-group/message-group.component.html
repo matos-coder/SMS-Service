@@ -3,6 +3,7 @@
     <div class="row">
       <div class="col-md-4">
         <div class="form-floating mb-3">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false" style="background: #e1d8f1; color: #673ab7;">
           <select class='form-control'
                           [(ngModel)]="selectedOrganization"
                           #mySelect
@@ -13,11 +14,75 @@
                             [value]="options.value">{{options.label}}</option>
                       </select>
                       <label for="floatingInput">Organizations</label>
+          </button>
         </div>
       </div>
     </div>
   </div>
-</div>
+
+
+
+
+
+
+
+  <!-- <div class="col-9">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="form-floating mb-3">
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+              <i class="bi bi-building"></i> {{ selectedOrganization ? selectedOrganization : 'Organizations' }}
+            </button>
+
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <li *ngFor="let option of messagegroupSelectList">
+                <a class="dropdown-item" (click)="selectedOrganization = option.value; getGroups(option.value)">
+                  {{ option.label }}
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- <div class="col-9">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="form-floating mb-3">
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown"          aria-expanded="false">
+  <i
+  class="bi bi-building"></i> Organizations
+            </button>
+
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <li *ngFor="let option of messagegroupSelectList">
+                <a class="dropdown-item" (click)="selectedOrganization = option.value; getGroups(option.value)">
+                  {{ option.label }}
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
 
 
 

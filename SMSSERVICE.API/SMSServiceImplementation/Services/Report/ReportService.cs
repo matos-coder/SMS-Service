@@ -28,7 +28,7 @@ namespace SMSServiceImplementation.Services.Report
         public ReportService(ApplicationDbContext dbContext, IMapper mapper)
         {
             _dbContext = dbContext;
-            _mapper = mapper;
+            //_mapper = mapper;
         }
 
         public async Task<List<GetReportDto>> GetReports(Guid messageGroupId)
